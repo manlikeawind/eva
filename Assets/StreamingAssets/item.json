@@ -1,0 +1,30 @@
+{
+    "data":[
+        {
+            "id":0,
+            "type":0,
+            "value":0,
+            "price":0,
+            "desc":"",
+            "attr":{}
+        },
+        {
+            "id":1,
+            "name":"",
+            "type":0,
+            "value":0,
+            "price":0,
+            "desc":"",
+            "attr":{}
+        },
+        {
+            "id":2,
+            "name":"",
+            "type":0,
+            "value":0,
+            "price":0,
+            "desc":"",
+            "attr":{}
+        }
+    ]
+}
